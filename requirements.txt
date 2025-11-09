@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+numpy
+tensorflow
+tensorflow-hub
+scipy
+matplotlib
