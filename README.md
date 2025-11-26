@@ -215,4 +215,4 @@ Audio Stream → Preprocess → YAMNet Classification →
 ---
 
 ## 🧾 License
-MIT License © 2025 [Rohith Sagar Karnala](https://github.com/rohitsagar363)
+This project is licensed under the MIT License
